@@ -19,12 +19,14 @@ namespace PersistenceLayer.Repositories
 
         public async Task<IEnumerable<TEntity>> GetAllAsync()
             => await _storeDb.Set<TEntity>().ToListAsync();
-        
+
+       
 
         public async Task<TEntity?> GetByIdAsync(TKey id)
         
            =>await _storeDb.Set<TEntity>().FindAsync(id);
-        
+
+       
 
         public void Remove(TEntity entity)
         {
@@ -35,5 +37,23 @@ namespace PersistenceLayer.Repositories
         {
           _storeDb.Set<TEntity>().Update(entity);
         }
+
+
+        #region With Specification
+
+        public async Task<IEnumerable<TEntity>> GetAllAsync(ISpecifications<TEntity, TKey> specifications)
+        {
+            return await SpecificationEvaluator.CreateQuery(_storeDb.Set<TEntity>(),specifications).ToListAsync();
+        }
+        public async Task<TEntity?> GetByIdAsync(ISpecifications<TEntity, TKey> specifications)
+        {
+            return await SpecificationEvaluator.CreateQuery(_storeDb.Set<TEntity>(), specifications).FirstOrDefaultAsync();
+        }
+
+        public async Task<int?> CountAsync(ISpecifications<TEntity, TKey> specifications)
+        {
+            return await SpecificationEvaluator.CreateQuery(_storeDb.Set<TEntity>(), specifications).CountAsync();
+        }
+        #endregion
     }
 }
