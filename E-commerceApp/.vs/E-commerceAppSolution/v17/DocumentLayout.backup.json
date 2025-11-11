@@ -1,0 +1,946 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\e-commerceapp\\custommiddlewares\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|solutionrelative:e-commerceapp\\custommiddlewares\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\dtos\\basketdtos\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\basketdtos\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FC1164-1015-4C9F-9D75-6DB9283336C7}|InfraStructure\\PeresentationLayer\\PresentationLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\peresentationlayer\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FC1164-1015-4C9F-9D75-6DB9283336C7}|InfraStructure\\PeresentationLayer\\PresentationLayer.csproj|solutionrelative:infrastructure\\peresentationlayer\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\e-commerceapp\\factories\\apiresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|solutionrelative:e-commerceapp\\factories\\apiresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\errormodels\\validitionerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\errormodels\\validitionerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\errormodels\\validitonerrortoreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\errormodels\\validitonerrortoreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\persistencelayer\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistencelayer\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\e-commerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|solutionrelative:e-commerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FC1164-1015-4C9F-9D75-6DB9283336C7}|InfraStructure\\PeresentationLayer\\PresentationLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\peresentationlayer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FC1164-1015-4C9F-9D75-6DB9283336C7}|InfraStructure\\PeresentationLayer\\PresentationLayer.csproj|solutionrelative:infrastructure\\peresentationlayer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E071C3-0468-4C93-B095-5EB152E8E871}|Core\\ServicesAbstraction\\ServiceAbstraction.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicesabstraction\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E071C3-0468-4C93-B095-5EB152E8E871}|Core\\ServicesAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\servicesabstraction\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\persistencelayer\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistencelayer\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E071C3-0468-4C93-B095-5EB152E8E871}|Core\\ServicesAbstraction\\ServiceAbstraction.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicesabstraction\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E071C3-0468-4C93-B095-5EB152E8E871}|Core\\ServicesAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\servicesabstraction\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\models\\basketmodels\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\basketmodels\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\models\\basketmodels\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\basketmodels\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\dtos\\productdtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productdtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\persistencelayer\\infrastructureservicesregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistencelayer\\infrastructureservicesregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\e-commerceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|solutionrelative:e-commerceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\e-commerceapp\\extentions\\webapplicationregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|solutionrelative:e-commerceapp\\extentions\\webapplicationregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\e-commerceapp\\extentions\\servicesregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|solutionrelative:e-commerceapp\\extentions\\servicesregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\errormodels\\errortoreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\errormodels\\errortoreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\specifications\\productwithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\specifications\\productwithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\persistencelayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistencelayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\specifications\\productcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\specifications\\productcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\productsortingoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\productsortingoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E071C3-0468-4C93-B095-5EB152E8E871}|Core\\ServicesAbstraction\\ServiceAbstraction.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicesabstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E071C3-0468-4C93-B095-5EB152E8E871}|Core\\ServicesAbstraction\\ServiceAbstraction.csproj|solutionrelative:core\\servicesabstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FC1164-1015-4C9F-9D75-6DB9283336C7}|InfraStructure\\PeresentationLayer\\PresentationLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\peresentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80FC1164-1015-4C9F-9D75-6DB9283336C7}|InfraStructure\\PeresentationLayer\\PresentationLayer.csproj|solutionrelative:infrastructure\\peresentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA8FC2A-3BE9-47A7-BDC4-9BAC79DF842C}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\dtos\\productdtos\\producttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productdtos\\producttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\shared\\dtos\\productdtos\\productbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232FBB3D-F00E-4AA7-B64F-86D1282FF505}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productdtos\\productbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\persistencelayer\\data\\migrations\\20251101130327_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistencelayer\\data\\migrations\\20251101130327_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\persistencelayer\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistencelayer\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\persistencelayer\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistencelayer\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\infrastructure\\persistencelayer\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C333CE71-C992-4D5B-8979-A8BF8E165952}|InfraStructure\\PersistenceLayer\\PersistenceLayer.csproj|solutionrelative:infrastructure\\persistencelayer\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\models\\productmodels\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productmodels\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\models\\productmodels\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productmodels\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E84741-3D67-4203-90A2-4F3A9D1B157D}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|c:\\users\\mohamed\\onedrive\\documents\\apis\\e-commerceapp\\e-commerceapp\\e-commerceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F2E72FD-A07C-4C06-9269-B73E80BD616F}|E-commerceApp\\E-commerceApp.csproj|solutionrelative:e-commerceapp\\e-commerceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomExceptionHandlerMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\CustomMiddleWares\\CustomExceptionHandlerMiddleWare.cs",
+              "RelativeDocumentMoniker": "E-commerceApp\\CustomMiddleWares\\CustomExceptionHandlerMiddleWare.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\CustomMiddleWares\\CustomExceptionHandlerMiddleWare.cs",
+              "RelativeToolTip": "E-commerceApp\\CustomMiddleWares\\CustomExceptionHandlerMiddleWare.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:51:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PersistenceLayer\\Repositories\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "InfraStructure\\PersistenceLayer\\Repositories\\BasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:55:37.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerBasketDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\BasketDtos\\CustomerBasketDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\BasketDtos\\CustomerBasketDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\BasketDtos\\CustomerBasketDto.cs",
+              "RelativeToolTip": "Shared\\DTOS\\BasketDtos\\CustomerBasketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:50:48.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\BasketDtos\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\BasketDtos\\BasketItemDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\BasketDtos\\BasketItemDto.cs",
+              "RelativeToolTip": "Shared\\DTOS\\BasketDtos\\BasketItemDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:52:02.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PeresentationLayer\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PeresentationLayer\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PeresentationLayer\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "InfraStructure\\PeresentationLayer\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:31:10.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\Factories\\ApiResponseFactory.cs",
+              "RelativeDocumentMoniker": "E-commerceApp\\Factories\\ApiResponseFactory.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\Factories\\ApiResponseFactory.cs",
+              "RelativeToolTip": "E-commerceApp\\Factories\\ApiResponseFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:00:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValiditonErrorToReturn.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ErrorModels\\ValiditonErrorToReturn.cs",
+              "RelativeDocumentMoniker": "Shared\\ErrorModels\\ValiditonErrorToReturn.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ErrorModels\\ValiditonErrorToReturn.cs",
+              "RelativeToolTip": "Shared\\ErrorModels\\ValiditonErrorToReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:35:27.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValiditionError.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ErrorModels\\ValiditionError.cs",
+              "RelativeDocumentMoniker": "Shared\\ErrorModels\\ValiditionError.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ErrorModels\\ValiditionError.cs",
+              "RelativeToolTip": "Shared\\ErrorModels\\ValiditionError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:35:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\Program.cs",
+              "RelativeDocumentMoniker": "E-commerceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\Program.cs",
+              "RelativeToolTip": "E-commerceApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:08:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:49:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\ServiceManager.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:17:26.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServicesAbstraction\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\ServicesAbstraction\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServicesAbstraction\\IServiceManager.cs",
+              "RelativeToolTip": "Core\\ServicesAbstraction\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:14:35.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PeresentationLayer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PeresentationLayer\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PeresentationLayer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InfraStructure\\PeresentationLayer\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:36:11.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\BasketService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\BasketService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\BasketService.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\BasketService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:56:07.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Exceptions\\BasketNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\BasketNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Exceptions\\BasketNotFoundException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\BasketNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:05:44.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\ProductNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:45:25.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:43:35.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServicesAbstraction\\IBasketService.cs",
+              "RelativeDocumentMoniker": "Core\\ServicesAbstraction\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServicesAbstraction\\IBasketService.cs",
+              "RelativeToolTip": "Core\\ServicesAbstraction\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:46:44.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:57:07.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PersistenceLayer\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "InfraStructure\\PersistenceLayer\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:02:28.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InfraStructureServicesRegisteration.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\InfraStructureServicesRegisteration.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PersistenceLayer\\InfraStructureServicesRegisteration.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\InfraStructureServicesRegisteration.cs",
+              "RelativeToolTip": "InfraStructure\\PersistenceLayer\\InfraStructureServicesRegisteration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:36:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "E-commerceApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\appsettings.json",
+              "RelativeToolTip": "E-commerceApp\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T12:49:17.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\BasketModels\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BasketModels\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\BasketModels\\BasketItem.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BasketModels\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:24:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\BasketModels\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BasketModels\\CustomerBasket.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\BasketModels\\CustomerBasket.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BasketModels\\CustomerBasket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:24:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\ProductDtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\ProductDtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\ProductDtos\\ProductDto.cs",
+              "RelativeToolTip": "Shared\\DTOS\\ProductDtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:57:30.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebApplicationRegisteration.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\Extentions\\WebApplicationRegisteration.cs",
+              "RelativeDocumentMoniker": "E-commerceApp\\Extentions\\WebApplicationRegisteration.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\Extentions\\WebApplicationRegisteration.cs",
+              "RelativeToolTip": "E-commerceApp\\Extentions\\WebApplicationRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:02:37.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServicesRegisteration.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\Extentions\\ServicesRegisteration.cs",
+              "RelativeDocumentMoniker": "E-commerceApp\\Extentions\\ServicesRegisteration.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\Extentions\\ServicesRegisteration.cs",
+              "RelativeToolTip": "E-commerceApp\\Extentions\\ServicesRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:51:10.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\ApplicationServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\ApplicationServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:28:06.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\ProductService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\ProductService.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:28:18.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PersistenceLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "InfraStructure\\PersistenceLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:32:03.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorToReturn.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ErrorModels\\ErrorToReturn.cs",
+              "RelativeDocumentMoniker": "Shared\\ErrorModels\\ErrorToReturn.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ErrorModels\\ErrorToReturn.cs",
+              "RelativeToolTip": "Shared\\ErrorModels\\ErrorToReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:56:46.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:23:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "Shared\\PaginatedResult.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\PaginatedResult.cs",
+              "RelativeToolTip": "Shared\\PaginatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:20:27.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductWithBrandAndTypeSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:26:49.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseSpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:39:44.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductCountSpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T21:39:42.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductQueryParams.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ProductQueryParams.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductQueryParams.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ProductQueryParams.cs",
+              "RelativeToolTip": "Shared\\ProductQueryParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:09:06.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductSortingOption.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ProductSortingOption.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductSortingOption.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\ProductSortingOption.cs",
+              "RelativeToolTip": "Shared\\ProductSortingOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:19:44.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:31:12.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServicesAbstraction\\IProductService.cs",
+              "RelativeDocumentMoniker": "Core\\ServicesAbstraction\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServicesAbstraction\\IProductService.cs",
+              "RelativeToolTip": "Core\\ServicesAbstraction\\IProductService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:02:30.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PresentationLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PeresentationLayer\\PresentationLayer.csproj",
+              "RelativeDocumentMoniker": "InfraStructure\\PeresentationLayer\\PresentationLayer.csproj",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PeresentationLayer\\PresentationLayer.csproj",
+              "RelativeToolTip": "InfraStructure\\PeresentationLayer\\PresentationLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T11:45:47.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PictureUrlResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:15:44.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "Core\\ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T13:34:06.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T14:52:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductBrandDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\ProductDtos\\ProductBrandDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\ProductDtos\\ProductBrandDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\ProductDtos\\ProductBrandDto.cs",
+              "RelativeToolTip": "Shared\\DTOS\\ProductDtos\\ProductBrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:27:12.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\ProductDtos\\ProductTypeDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\ProductDtos\\ProductTypeDto.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Shared\\DTOS\\ProductDtos\\ProductTypeDto.cs",
+              "RelativeToolTip": "Shared\\DTOS\\ProductDtos\\ProductTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:26:52.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20251101130327_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Data\\Migrations\\20251101130327_IntialCreate.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PersistenceLayer\\Data\\Migrations\\20251101130327_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Data\\Migrations\\20251101130327_IntialCreate.cs",
+              "RelativeToolTip": "InfraStructure\\PersistenceLayer\\Data\\Migrations\\20251101130327_IntialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T13:03:27.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:57:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\DataSeed.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PersistenceLayer\\DataSeed.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\DataSeed.cs",
+              "RelativeToolTip": "InfraStructure\\PersistenceLayer\\DataSeed.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T14:05:27.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T14:03:53.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PersistenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeToolTip": "InfraStructure\\PersistenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:33:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\PersistenceLayer\\Data\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\InfraStructure\\PersistenceLayer\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "InfraStructure\\PersistenceLayer\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:24:47.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductModels\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:10:06.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductModels\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:09:49.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:04:41.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "E-commerceApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\E-commerceApp.csproj",
+              "RelativeDocumentMoniker": "E-commerceApp\\E-commerceApp.csproj",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\APIS\\E-commerceApp\\E-commerceApp\\E-commerceApp.csproj",
+              "RelativeToolTip": "E-commerceApp\\E-commerceApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T11:44:20.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
